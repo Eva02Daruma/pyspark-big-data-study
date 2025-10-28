@@ -1,0 +1,2 @@
+export PATH=$PATH:/opt/spark/bin
+spark-submit /opt/spark/work-dir/ratings-counter.py
